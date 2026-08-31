@@ -1,38 +1,30 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Card%20Generator🎀&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" /> </p> <h2 align="center">🎉 Card Generator 🎀</h2> <p align="center"> Create beautiful and personalized congratulations cards 💖 </p>
-✨ Features
-🎉 Generate personalized congratulations cards
-📝 Add the person's name
-🏆 Add their achievement
-💌 Choose different message styles
-🎊 Animated confetti celebration
-🎨 Beautiful animated gradient background
-🏆 Animated trophy badge
-📱 Fully responsive design
-⬇️ Download generated cards as PNG images
-🎀 Random congratulation messages
-🎭 Message Styles
 
-Choose from different message styles:
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Card%20Generator🎀&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" /> </p> <p align="center"> 🎉 Create beautiful and personalized congratulations cards 🎀 </p>
+<h3>✨ Features</h3>
 
-💖 Proud & Warm
-😎 Fun & Playful
-🚀 Motivational
-✨ Short & Sweet
+🎉 Generate personalized congratulations cards <br>
+📝 Add the person's name <br>
+🏆 Add their achievement <br>
+💌 Choose different message styles <br>
+🎊 Animated confetti celebration <br>
+🎨 Beautiful animated gradient background <br>
+🏆 Animated trophy badge <br>
+📱 Fully responsive design <br>
+⬇️ Download generated cards as PNG images <br>
+🎀 Random congratulation messages <br>
 
-Each time a card is generated, a random message is selected from the selected style.
+<h3>🎭 Message Styles</h3> 
 
-🛠️ Technologies Used
-🌐 HTML5
-🎨 CSS3
-⚡ JavaScript
-🎊 CSS Animations
-🖼️ Canvas / PNG Generation
-🎯 Purpose
+💖 Proud & Warm <br>
+😎 Fun & Playful <br>
+🚀 Motivational <br>
+✨ Short & Sweet <br>
 
-Card Generator makes it easy to create attractive, personalized congratulations cards for celebrating achievements, milestones, and special moments. 🎉💖
+Each time a card is generated, a random message is selected from the selected style. <br>
 
-👨‍💻 Created By
 
-AtibaDar 🎀
+<h3>🛠️ Technologies Used</h3> 
+🌐 HTML5 <br>
+🎨 CSS3 <br>
+⚡ JavaScript <br>
 
-<p align="center"> Made with 💖 and lots of 🎉 </p>
