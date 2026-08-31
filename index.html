@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Congratulations!</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- Confetti Animation Container -->
+
+  <div class="confetti" id="confetti"></div>
+
+  <!-- Main Content -->
+
+  <div class="wrapper">
+
+
+<!-- ================= FORM SCREEN ================= -->
+<div class="card" id="formCard">
+
+  <h1>🎉 Congratulate Someone</h1>
+
+  <p class="subtitle">
+    Celebrate their hard work & success
+  </p>
+
+
+  <!-- Name Input -->
+  <div class="form-group">
+
+    <label for="nameInput">
+      Their Name
+    </label>
+
+    <input
+      type="text"
+      id="nameInput"
+      placeholder="e.g. Eshal"
+      maxlength="30"
+    >
+
+  </div>
+
+
+  <!-- Achievement Input -->
+  <div class="form-group">
+
+    <label for="achievementInput">
+      What did they achieve?
+    </label>
+
+    <input
+      type="text"
+      id="achievementInput"
+      placeholder="e.g. Topped the exam"
+      maxlength="60"
+    >
+
+  </div>
+
+
+  <!-- Message Style -->
+  <div class="form-group">
+
+    <label for="messageSelect">
+      Message Style
+    </label>
+
+    <select id="messageSelect">
+
+      <option value="proud">
+        Proud & Warm
+      </option>
+
+      <option value="funny">
+        Fun & Playful
+      </option>
+
+      <option value="motivational">
+        Motivational
+      </option>
+
+      <option value="simple">
+        Short & Sweet
+      </option>
+
+    </select>
+
+  </div>
+
+
+  <!-- Generate Button -->
+  <button id="generateBtn">
+    Generate Card 🎀
+  </button>
+
+</div>
+
+
+
+<!-- ================= RESULT SCREEN ================= -->
+<div class="card result-card" id="resultCard">
+
+  <!-- Trophy -->
+  <div class="badge">
+    🏆
+  </div>
+
+
+  <!-- Congratulations Title -->
+  <h2>
+    Congratulations,
+    <span id="resultName">Name</span>!
+  </h2>
+
+
+  <!-- Generated Message -->
+  <p
+    id="resultMessage"
+    class="result-message">
+  </p>
+
+
+  <!-- Achievement -->
+  <p
+    class="result-achievement"
+    id="resultAchievement">
+  </p>
+
+
+  <!-- Buttons -->
+  <div class="action-buttons">
+
+    <button id="downloadBtn">
+      ⬇️ Download Card
+    </button>
+
+    <button id="backBtn">
+      ↺ Make Another
+    </button>
+
+  </div>
+
+
+  <!-- Copyright inside downloaded card -->
+  <p class="card-copyright">
+    © 2026 Made by AtibaDar
+  </p>
+
+</div>
+
+
+  </div>
+
+  <!-- ================= WEBSITE FOOTER ================= -->
+<footer class="site-footer">
+  © 2026 Made by AtibaDar
+</footer>
+
+  <!-- html2canvas Library -->
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+
+  <!-- Your JavaScript File -->
+
+  <script src="script.js"></script>
+
+</body>
+
+</html>
