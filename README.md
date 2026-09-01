@@ -20,11 +20,8 @@
 🚀 Motivational <br>
 ✨ Short & Sweet <br>
 
-
-
-
 <h3>🛠️ Technologies Used</h3> 
-🌐 HTML5 <br>
-🎨 CSS3 <br>
-⚡ JavaScript <br>
+ HTML5 <br>
+ CSS3 <br>
+ JavaScript <br>
 
