@@ -1,6 +1,6 @@
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Card%20Generator🎀&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" /> </p> <p align="center"> 🎉 Create beautiful and personalized congratulations cards 🎀 </p>
-<h3>✨ Features</h3>
+<h3>✨ Features of the project </h3>
 
 🎉 Generate personalized congratulations cards <br>
 📝 Add the person's name <br>
