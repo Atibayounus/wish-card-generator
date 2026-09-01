@@ -20,7 +20,7 @@
 🚀 Motivational <br>
 ✨ Short & Sweet <br>
 
-Each time a card is generated, a random message is selected from the selected style. <br>
+
 
 
 <h3>🛠️ Technologies Used</h3> 
